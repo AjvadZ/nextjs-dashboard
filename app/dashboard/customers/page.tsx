@@ -1,4 +1,4 @@
 export default function Page(){
-    return <button>Customers page</button>;
+    return <button>Page for Customers</button>;
 
 }
